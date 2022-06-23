@@ -1,5 +1,9 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?KshitijMagare19)
+![](https://komarev.com/ghpvc/?username=KshitijMagare19)
+
+- 😄 I am a student at Vishwakarma Institute of Technology, Pune currently pursuing B.Tech in computer engineering. Being a computer passionate, 
+- 📫 I find myself highly interested in domains of Web development, Application development. 
+- ⚡ In addition, I have worked on projects involving Android as well as web development and I love to exploring various fields through projects. 
 
 
 <!--
