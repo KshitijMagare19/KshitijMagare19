@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://KshitijMagare19/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?KshitijMagare19)
 
 
 <!--
