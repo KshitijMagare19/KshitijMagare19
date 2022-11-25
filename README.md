@@ -5,7 +5,9 @@
 - 📫 I find myself highly interested in domains of Web development, Application development. 
 - ⚡ In addition, I have worked on projects involving Android as well as web development and I love to exploring various fields through projects. 
 
+Languages and Tools:
 
+    
 <!--
 **KshitijMagare19/KshitijMagare19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
